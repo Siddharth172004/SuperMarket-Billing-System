@@ -1,6 +1,6 @@
 # Introduction
 
-- The project is on Supermarket Billing. Supermarket is the place where customers come to purchase their daily using products and pay for that. So there is a need to calculate how many products are sold and, to generate the bill for the customer. 
+- The project is on Supermarket Billing system is the place where customers come to purchase their daily using products and pay for that. So there is a need to calculate how many products are sold and, to generate the bill for the customer. 
 
 - In our project we have 3 Users 
 
